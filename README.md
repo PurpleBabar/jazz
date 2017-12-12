@@ -1,0 +1,2 @@
+# jazz
+Json Agnostic Storage
